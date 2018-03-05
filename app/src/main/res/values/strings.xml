@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">温室监控</string>
+
+    <string name="action_settings">setting</string>
+    <string name="messageadress">http://192.168.61.1:8888/message/temperature.action?id=1</string>
+    <!-- main activity -->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--login activity-->
+    <string name="titlemoniroting">视频监控</string>
+    <string name="title_activity_chart">状态列表</string>
+    <string name="title_activity_seach">搜索</string>
+    <string name="title_activity_main_navigation">欢迎</string>
+</resources>

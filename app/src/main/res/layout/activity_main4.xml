@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrator.myapplication.Main4Activity">
+
+    <android.support.v7.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/but2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="监控" />
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/but3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="查询" />
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/but4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="农事记录" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/but5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="控制模块" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/but6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="系统设置" />
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/but7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="报警" />
+
+
+    </android.support.v7.widget.LinearLayoutCompat>
+
+
+</android.support.constraint.ConstraintLayout>
